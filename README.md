@@ -5,9 +5,11 @@
 
 [Tools Used](#tools-used)
 
-Data Labels
-Gender Distribution of Buyers
-Visualization of Analysis
+[Data Labels](#data-labels)
+
+[Gender Distribution of Buyers](#gender-distribution-of-buyers)
+
+[Visualization of Analysis](#visualization-of-analysis)
 
 
 ## Sales Report Overview
