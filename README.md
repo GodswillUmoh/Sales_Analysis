@@ -1,14 +1,7 @@
 # Sales_Analysis
 
 ## Contents:
-[Sales Report Overview](#sales-report-overview)
-
-[Tools Used](#tools-used)
-
-[Data Labels](#data-labels)
-
-[Gender Distribution of Buyers](#gender-distribution-of-buyers)
-
+[Sales Report Overview](#sales-report-overview) | [Tools Used](#tools-used) | [Data Labels](#data-labels) | [Gender Distribution of Buyers](#gender-distribution-of-buyers) | 
 [Visualization of Analysis](#visualization-of-analysis)
 
 
