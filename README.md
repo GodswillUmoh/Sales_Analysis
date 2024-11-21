@@ -27,6 +27,8 @@ Using pivot tables, I created a breakdown of sales by buyer gender to observe if
 ### Key Insight:
 Understanding gender-based preferences can assist in customizing marketing messages and promotional strategies.
 
+---
+
 ## Visualization of Analysis
 ### Pivot Tables
 [To View Tables, Click Here](https://ibb.co/pjJFZF9)
