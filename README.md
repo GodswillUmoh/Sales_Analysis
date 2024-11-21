@@ -31,4 +31,7 @@ Understanding gender-based preferences can assist in customizing marketing messa
 ### Pivot Tables
 [To View Tables, Click Here](https://ibb.co/pjJFZF9)
 
+### Power BI Dashboard
+[Click Here to view Dashboard](https://ibb.co/FqTKs29)
+
 
