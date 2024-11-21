@@ -18,3 +18,17 @@ This project analyzes car sales data to uncover insights on sales distribution b
   - Income: Income of the buyer.
   - Gender: Gender of the buyer.
   - Revenue: Revenue generated from each sale.
+
+---
+
+## Gender Distribution of Buyers
+Using pivot tables, I created a breakdown of sales by buyer gender to observe if there is a significant difference in car buying preferences between genders.
+
+### Key Insight:
+Understanding gender-based preferences can assist in customizing marketing messages and promotional strategies.
+
+## Visualization of Analysis
+### Pivot Tables
+[To View Tables, Click Here](https://ibb.co/pjJFZF9)
+
+
